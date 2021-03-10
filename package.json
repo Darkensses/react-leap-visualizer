@@ -9,7 +9,10 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.0"
+    "react-three-fiber": "^5.3.19",
+    "three": "^0.126.1",
+    "web-vitals": "^1.1.0",
+    "ws": "^7.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
