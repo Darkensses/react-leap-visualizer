@@ -25,7 +25,7 @@ But also with:
 - **threeJS** :ice_cube: *(for maths and drawing 3D graphics)* [Go to repo](https://github.com/mrdoob/three.js/).
 - **react-three-fiber** *(threeJS on React!)* [Go to repo](https://github.com/pmndrs/react-three-fiber).
 
-:loudspeaker: Shout out to **Zakaton** for create an unofficial LeapMotion SDK and allows me to understan what is going behind the scenes!
+:loudspeaker: Shout-outs to **Zakaton** for create an unofficial LeapMotion SDK and allowed me to understand what is going on behind the scenes!
 - [Zakaton's Github](https://github.com/zakaton)
 - Unoffical SDK [repo](https://github.com/zakaton/Leap-Motion-Web-SDK)
 - Youtube [Demo](https://www.youtube.com/watch?v=Y2eo57Z4YWo) *(Check the channel, it has a lot of amazing demos with other devices!)*
