@@ -15,6 +15,9 @@ Run the React app (don't forget to plug your LeapMotion to the computer :electri
 ```
 npm run start
 ```
+**:point_right: Check the Demo on [YouTube](https://youtu.be/99oCRKfpnSo)**
+<br>
+<br>
 ![alt text](https://github.com/Darkensses/react-leap-visualizer/raw/master/preview.png "Preview")
 
 ## How was it built?
